@@ -18,4 +18,4 @@ Contracts include:
 If the `generate-genesis` feature is enabled a fully populated genesis file with
 embedded contracts will be produced during the build.
 
-This crate is part of the [Fluentbase](https://github.com/fluentlabs-xyz/fluentbase) project.
+This crate is part of the [Fluentbase](https://github.com/fluentlabs-xyz/fuentbase) project.
